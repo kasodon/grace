@@ -404,8 +404,8 @@ figcaption {
 
 @media only screen and (max-width: 768px){
     .img-responsive{
-      width: 500px;
-      height: 334px;
+      width: 410px !important;
+      height: 274px !important;
       margin-top: 50px;
     }
 
