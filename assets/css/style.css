@@ -404,7 +404,9 @@ figcaption {
 
 @media only screen and (max-width: 768px){
     .img-responsive{
-     
+      width: 300px !important;
+      height: 200px !important;
+      margin-top: 30px;
     }
 
     .hrc{
