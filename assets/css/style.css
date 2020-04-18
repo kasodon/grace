@@ -404,9 +404,10 @@ figcaption {
 
 @media only screen and (max-width: 768px){
     .img-responsive{
-      width: 300px !important;
-      height: 200px !important;
+      width: 280px !important;
+      height: 187px !important;
       margin-top: 30px;
+      margin-left: 30px;
     }
 
     .hrc{
