@@ -107,9 +107,8 @@ figcaption {
   display: inline-block;
   width: 100%;
   text-align: center;
-  font-size: 10px;
-  line-height: 20px;
-  font-weight: 700;
+  font-size: 10px !important;
+  line-height: 15px !important;
 }
 }
 
