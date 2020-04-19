@@ -102,6 +102,15 @@ figcaption {
   #timer {
     width: auto !important;
   }
+  .list-group-horizontal .list-group-item
+{
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  line-height: 20px;
+  font-weight: 700;
+}
 }
 
 /*--------------------------------------------------------------
